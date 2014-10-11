@@ -12,4 +12,5 @@ To run the code the data is required to be extracted in the working directory us
 2. only mean and standard deviation measures variables were chosen
 3. variable names cleaned
 4. activity labels changed from numbers to labels
-5. new dataset was saved in comb_data.txt
+5. mean values were calculated for each subject and for each activity type 
+6. new dataset was saved in comb_data.txt

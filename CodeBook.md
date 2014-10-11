@@ -1,6 +1,6 @@
 # code book 
-##Variable describtions 
-
+##Variable descriptions 
+Final data set consists from mean and std samsung activity data.
 
 ##the data 
 the base data used for the process is from:

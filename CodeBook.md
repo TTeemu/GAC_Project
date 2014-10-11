@@ -1,6 +1,6 @@
 # code book 
 ##Variable descriptions 
-Final data set consists from mean and std samsung activity data.
+Final data set consists from mean and std samsung activity data. The X,Y and Z means directions measured from the sensors.
 
 ##The data 
 the base data used for the process is from:
